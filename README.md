@@ -1,3 +1,19 @@
+# Intro to Coding for Designers
+## Onboarding Checklist
+- Sign up for Slack and say hello in the Coding for Designers channel!
+- Install Zoom
+- Install Atom or other Code Editors (listed below)
+	- I will be using Firefox for the Inspector Tools throughout the course
+- Sign up for Github account --> send me your username (make sure you're ok with it being your web URL, ie. `username.github.io`)
+	- Github is where the class syllabus and demo files are stored!
+- Sign up for a Figma account --> send me your Figma email
+	- I'll invite you to the ICD project on Figma so you can see all our activities throughout the course
+	- optional: Install Figma for desktop and [intel mac](https://forum.figma.com/t/macos-desktop-app-not-installing/5324/18)
+
+## Virtual Background
+Optional: Install the Coding for Designers virtual wallpaper in Zoom so we can all be in the same "space"
+![](icd-zoom-virtual-bg.jpg)
+
 # Code Editors
 Suggested based on my personal experience as a designer who codes. As a designer, I am biased towards Atom, which has a better UI, larger font size, and better readability by default. I struggled to find a comfortable theme with Visual Studio Code, but you might have better luck with it.
 
